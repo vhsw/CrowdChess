@@ -1,0 +1,15 @@
+{
+  "name": "crowdchess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alexey Dubrov",
+  "license": "MIT",
+  "dependencies": {
+    "chess.js": "^0.11.0",
+    "websocket": "^1.0.33"
+  }
+}
